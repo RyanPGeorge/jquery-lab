@@ -13,7 +13,7 @@ function addInput(){
 
 */
 
-
+``
 $("#add-skill").on('click', function() {
     //let skill = document.querySelector("#skill-input").value;
     let skill = $("#skill-input").val();
