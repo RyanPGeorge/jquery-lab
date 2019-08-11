@@ -1,0 +1,20 @@
+body {
+    
+}
+
+
+header {
+    /*grid-area: auto*/
+    background-color: #97C57D;
+}
+
+input {
+    text-emphasis-color: black;
+    border-color: #97C57D;
+    
+}
+
+button {
+ background-color: #97C57D;
+ color: white;
+}
